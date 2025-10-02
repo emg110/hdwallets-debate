@@ -1,0 +1,37 @@
+{
+  "name": "hdwallets-debate",
+  "version": "1.0.0",
+  "description": "JavaScript library settling a debate on HD wallets",
+  "main": "index.js",
+  "type": "module",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  
+  "dependencies": {
+    "algosdk": "^3.5.2",
+    "@scure/bip39": "^2.0.0",
+    "@noble/hashes": "^2.0.1",
+    "@scure/bip32":"^2.0.0"
+  },
+  "keywords": [
+    "bruno",
+    "patrick",
+    "andrew",
+    "MG",
+    "HDWallets",
+    "Algorand"
+  ],
+  "author": "@emg110",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emg110/hdwallets-debate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emg110/hdwallets-debate/issues"
+  },
+  "homepage": "https://github.com/emg110/hdwallets-debate#readme"
+}
